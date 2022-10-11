@@ -7,6 +7,6 @@
  * Do basic math.
  */
 function doMathClicked() {
-    document.getElementById("calculate-area").innerhtml = "<p>The Area Of Rectangle is: " + (5 * 3) + "</p>"
-  
+  document.getElementById("calculate-area").innerhtml =
+    "<p>The Area Of Rectangle is: " + 5 * 3 + "</p>"
 }
