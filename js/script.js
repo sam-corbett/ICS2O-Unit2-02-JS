@@ -8,5 +8,5 @@
  */
 function doMathClicked() {
   document.getElementById("calculate-area").innerHTML =
-    "<p>The Area Of Rectangle is: " + 5 * 3 + "cm</p>"
+    "<p>The Area Of Rectangle is: " + 5 * 3 + "</p>"
 }
