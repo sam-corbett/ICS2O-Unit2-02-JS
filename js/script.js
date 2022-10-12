@@ -1,10 +1,10 @@
 // Copyright (c) 2022 Mr. Coxall All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2022
+// Created by: Sam Corbett
+// Created on: Oct 2022
 // This file contains the JS functions for index.html
 /**
- * Do basic math.
+ * Do Rectangle Area and Perimeter math.
  */
 function doMathClicked() {
   document.getElementById("calculate-area").innerHTML =
